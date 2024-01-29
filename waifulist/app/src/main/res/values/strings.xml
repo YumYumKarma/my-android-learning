@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">waifu list</string>
+    <string name="waifu1">Kaguya Shinomiya</string>
+    <string name="waifu2">Chika Fujiwara</string>
+    <string name="waifu3">Mai Sakurajima</string>
+    <string name="waifu4">Rio Futaba</string>
+    <string name="waifu5">Zero Two</string>
+    <string name="waifu6">Mikasa Ackerman</string>
+    <string name="waifu7">Rem</string>
+    <string name="waifu8">Emilia</string>
+    <string name="waifu9">Miku Nakano</string>
+    <string name="waifu10">Shinobu Kocho</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SimpleFlowerClassification</string>
+    <string name="label_image">Label Image</string>
+    <string name="image_for_input">Image_for_input</string>
+</resources>
